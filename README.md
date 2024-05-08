@@ -1,19 +1,18 @@
-# CLG ASSIGNMENT 1
-Lesson 2 - Javascript
+# CLG ASSIGNMENT 3
+Lesson 3 - Javascript
 
 INSTRUCTIONS
-In your scripts.js, declare and initialise variables to hold your website data (these could be portfolio projects, movie data, city weather, anything and everything you like)
+Taking your variables from the last lesson assignment, use them to write expressions using various operators and operands. Use at least 2 operators from the following categories:
 
-Store all different types of primitive values in your variables - numbers, strings, booleans, even null
+Arithmetic Operators (+, -, *, /, %, ++, –)
 
-Output the variables to your console (you could use console.log in your scripts.js or directly in the console) to prepare for how you might include the data on the frontend of your website in the future.
+Comparison Operators (==, ===, !=, !==, >, =,
 
-E.g. Concatenate strings with variables to create content for your web page.
+Logical Operators (&&, ||, !)
 
-Once you’ve set up all your variables with data, use some of the console object methods you learnt about in this lesson to clear your console or add a console warning.
+Use the various expressions you’ve written to output new data values to the console. E.g. output your portfolio items, favourite films or local restaurants.
 
-Optional bonus step: Explore MDN docs to apply methods to variables.
-e.g. Try converting some text to a different case using a method you can find on the MDN docs
+Create statements (block, if/else, etc) and return value(s) in the console.
 
 # Author
 Abby
